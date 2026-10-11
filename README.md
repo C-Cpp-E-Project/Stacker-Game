@@ -11,9 +11,9 @@ A simple and fun /*Stacker Game*/ built with Arduino and simulated using Proteus
 // Files Included
 * `*.ino` - The core Arduino source code.
 * `*.pdsprj` - The Proteus simulation design file.
-
-
-
+*
+*//ภาษาไทย
+*
 // (Stacker เกม) 🕹️
 
 โปรเจกต์ /*เกม Stacker*/ พัฒนาโดยใช้บอร์ด Arduino และจำลองการทำงานของฮาร์ดแวร์ผ่านโปรแกรม Proteus โดยผู้เล่นจะต้องกดปุ่ม Enter เพื่อวางบล็อกให้ตรงล็อกพอดีเพื่อสะสมคะแนนให้ได้สูงที่สุด
