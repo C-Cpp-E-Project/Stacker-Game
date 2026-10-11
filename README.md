@@ -12,9 +12,9 @@ A simple and fun /*Stacker Game*/ built with Arduino and simulated using Proteus
 * `*.ino` - The core Arduino source code.
 * `*.pdsprj` - The Proteus simulation design file.
 
-Stacker
-Stacker
-Stacker
+Stacker.
+Stacker.
+Stacker.
 
 // (Stacker เกม) 🕹️
 
