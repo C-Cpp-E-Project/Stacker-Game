@@ -1,5 +1,3 @@
-# Stacker-Game
-
 ## Stacker Game 🕹️
 
 A simple and fun *Stacker Game* built with Arduino and simulated using Proteus. The goal of the game is to stack blocks perfectly on top of each other to reach the highest score.
