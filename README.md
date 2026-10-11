@@ -25,5 +25,7 @@ A simple and fun *Stacker Game* built with Arduino and simulated using Proteus. 
 <br>
 
 ## Game Preview 🖥️
-<video src="https://github.com/user-attachments/assets/1da1b15a-7a95-4e02-8ae7-1cb5631a4ee7" width="35%" controls>
+<img width="790" height="558" alt="ezgif-24c3b2fc8b26d68d" src="https://github.com/user-attachments/assets/d134db61-c790-4caf-b023-6c4c7fadf787" />
+
+
 
